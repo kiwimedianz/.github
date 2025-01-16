@@ -1,0 +1,13 @@
+{
+    "name": "KiwimediaNZ Organization Workflow Template 1",
+    "description": "KiwimediaNZ Organization Workflow Template 1",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
