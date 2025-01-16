@@ -1,3 +1,3 @@
-# reusable-workflows
+# workflow-templates
 
-collection of reusable workflows
+collection of reusable workflow templates
