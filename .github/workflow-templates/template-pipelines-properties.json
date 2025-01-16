@@ -1,7 +1,13 @@
 {
-  "name": "Example Templated Workflow",
-  "description": "A basic workflow template for building, testing, and deploying your code.",
-  "iconName": "gear", 
-  "categories": ["CI", "Build", "General"],
-  "filePatterns": ["*.yml", "*.yaml", "README.md"]
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
 }
