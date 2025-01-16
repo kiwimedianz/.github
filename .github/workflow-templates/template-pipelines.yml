@@ -1,6 +1,7 @@
 name: example workflow template 1
 
 on:
+  workflow_dispatch:
   push:
     branches: [ $default-branch ]
   pull_request:
