@@ -1,4 +1,4 @@
-name: example reusable workflow template
+name: example workflow template 1
 
 on:
   push:
@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run a one-line script
-        run: echo example reusable workflow template
+        run: echo example workflow template 1
